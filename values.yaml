@@ -25,6 +25,9 @@ traefikForwardAuth:
   domain:
   authHost:
   whitelist: []
+  # httpProxy:
+  # httpsProxy:
+  # noProxy:
 
 ingress:
   enabled: false
